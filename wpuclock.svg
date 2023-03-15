@@ -1,0 +1,209 @@
+<svg  id='svg' xmlns="http://www.w3.org/2000/svg" width="600px" height="600px" viewBox="-160 -160 340 340">
+  <style>
+   @import "./fonts/localFonts.css";
+  </style>
+      <!-- panel -->
+  <circle r="150" fill="white" stroke="#0a60ac" stroke-width="10" filter="blur(0.98) drop-shadow(1px 1px 3px )" />
+  <circle r="156" fill="transparent" stroke="#fecb30" stroke-width="3" filter="drop-shadow(1px 1px 3px )" />
+<!-- LOGO Picture-->
+<g transform="scale(0.22 0.21),translate(-260 -450)">         
+  <path fill="#fecb30"
+    d="M303.64,18.4c.3.69.94.48,1.45.51a248,248,0,0,1,75.5,16.78A263.14,263.14,0,0,1,446,73.09a269.94,269.94,0,0,1,30.87,28.05c21.94,23.28,39.45,49.46,51.48,79.19a195.1,195.1,0,0,1,11.86,41.89,155.34,155.34,0,0,1,1.93,32.26,133.34,133.34,0,0,1-1.38,13.83c-.27,1.78-.47,1.92-2.13,1.18a88.7,88.7,0,0,1-18.21-11c-5.8-4.52-11.45-9.24-17.77-13.06a126.71,126.71,0,0,0-26.94-11.86,358.77,358.77,0,0,0-46.82-11.16c-10.94-2-21.7-4.69-32.48-7.36-14.65-3.64-29.31-7.25-44.13-10.14-11.29-2.2-22.64-4-34.11-5.13a195.15,195.15,0,0,0-29.23-.73,92.58,92.58,0,0,0-28.56,5.7,52.63,52.63,0,0,0-28.77,25.5,119.51,119.51,0,0,0-7,16,14.89,14.89,0,0,1-9.71,9.54,136.21,136.21,0,0,1-17.39,4.49c-10.31,2.2-20.7,4.06-31.18,5.24-7.31.82-14.64,1.36-22,1.69-6.88.3-13.75.43-20.63.27q-14.62-.35-29.2-1.7c-11.86-1.1-23.65-2.67-35.41-4.51-5.92-.93-11.8-2.08-17.71-3-1.34-.22-1.94-.78-2-2.12-.18-2.39-.54-4.77-.68-7.16-1-17.19,1.5-34,6.41-50.4a225.28,225.28,0,0,1,30.67-63.18,272.55,272.55,0,0,1,94.08-85.6A249.35,249.35,0,0,1,275.53,18.91c.59,0,1.31.24,1.71-.51Z"
+    transform="translate(-31.48 -18.4)" />
+  <path fill="#0a60ac"
+    d="M534.83,289.29c-.39-.5-.8-1-1.23-1.47A109.28,109.28,0,0,0,513,270c-12.79-8.67-26.73-15-41.22-20.21C451.17,242.38,430,237.36,408.59,233c-17.06-3.51-34.15-6.83-51.2-10.36-18.55-3.84-37.17-7.3-56.17-8.11-10.6-.45-21.11.07-31.43,2.64-18.5,4.6-31.37,15.56-37.8,33.72-.2.55-.66,1.09-.21,1.75.73-.3,1.07-1,1.52-1.5,13.48-15.8,30.76-23.45,51.38-23.9a103.6,103.6,0,0,1,21.46,1.93,117.84,117.84,0,0,1,33.93,11.44c9.61,5.12,18,11.86,25.88,19.3,5,4.72,10,9.48,15,14.12a102.47,102.47,0,0,0,44.73,24c7.37,1.86,14.89,2.92,22.37,4.21,18.81,3.25,37.55,7,56.53,9.2a132.69,132.69,0,0,0,19.86,1.14c.64,0,1.43.27,2-.58-5.52-6.87-12.11-12-21-13.68q-3.3-.61-6.63-1c-5.79-.75-11.59-1.34-17.36-2.18-12.1-1.77-24.24-3.2-36.4-4.53a193.59,193.59,0,0,1-22-3.34c-9.14-2.09-17.5-5.78-24.13-12.55a232.6,232.6,0,0,0-36.33-29.72c-6.43-4.34-12.76-8.82-18.74-13.78-.66-.55-1.48-1-1.88-1.86a3.56,3.56,0,0,1,.72,0,93,93,0,0,1,38.74,16.38c4.93,3.57,9.59,7.47,14.24,11.37A133.59,133.59,0,0,0,409,267.26,44.88,44.88,0,0,0,425,273.92c6.75,1.27,13.48,2.66,20.23,3.92q19.2,3.57,38.51,6.53c10.11,1.56,20.24,2.94,30.41,4.09,6.44.72,12.9,1.21,19.37,1.49.44,0,.94.19,1.31-.2C534.84,289.58,534.91,289.38,534.83,289.29Z"
+    transform="translate(-31.48 -18.4)" />
+  <path fill="#0a60ac"
+    d="M294.32,308.32l-28.14-4.64C257,302.18,248,299.95,239,298a42.73,42.73,0,0,0-24.29,1.53q-6.54,2.38-12.85,5.29a151.6,151.6,0,0,1-19.47,7.41c-16.91,5.15-34.29,7.64-51.85,9-15.15,1.19-30.34,1.57-45.54,1.55q-15.48,0-31,0H51.76a22.07,22.07,0,0,0,6,2.87c20.26,7.43,41.27,11.85,62.5,15.34,13.09,2.15,26.26,3.75,39.48,5,12.83,1.17,25.67,2,38.54,2.25,25.78.53,51.48-.37,77-4.79a182.29,182.29,0,0,0,35.81-9.6c8.6-3.39,16.74-7.6,23.88-13.54a14.28,14.28,0,0,0,3.1-3.06l-2.61-.71C321.9,312.93,308.12,310.58,294.32,308.32Z"
+    transform="translate(-31.48 -18.4)" />
+  <path fill="#0a60ac"
+    d="M511.4,326.18a40,40,0,0,0-9.56-4.92,124.7,124.7,0,0,0-23-5.73c-11.19-1.92-22.5-3-33.77-4.24-13.19-1.49-26.28-3.58-39.34-5.87a39.67,39.67,0,0,1-22.87-12.13c-2.62-2.81-5.37-5.49-8-8.3a177,177,0,0,0-23.7-22c-14.28-10.66-29.66-19.15-46.91-23.95-10.66-3-21.47-4.3-32.48-2.22a43,43,0,0,0-29,19.44,2.75,2.75,0,0,0-.7,1.6,2.49,2.49,0,0,0,.66,0c.59-.23,1.18-.5,1.77-.74a103.63,103.63,0,0,1,29.33-7.71,84.75,84.75,0,0,1,42,6.38c12.53,5.25,23.5,12.9,33.67,21.8a268.3,268.3,0,0,1,21.59,21.81,117.67,117.67,0,0,0,12.45,12.3A30.23,30.23,0,0,0,396.8,318c4.47.91,9,1.35,13.53,1.88,7.3.86,14.61,1.66,21.9,2.61,10.06,1.31,20.11,2.73,30.16,4.11l26.84,3.66c5.07.69,10.12,1.52,15.21,2,3.69.36,7.35,0,10.28-2.91A13.74,13.74,0,0,0,511.4,326.18Z"
+    transform="translate(-31.48 -18.4)" />
+  <path fill="#0a60ac"
+    d="M90.95,295.28a267.18,267.18,0,0,0,40.47-1.73,253.37,253.37,0,0,0,35.36-6.36A83.86,83.86,0,0,0,183,281.45a11.14,11.14,0,0,0,3.71-2.56c-48.28-.28-96.36-3.21-144.37-7.28a.32.32,0,0,0-.22.09c-.23.22.24.16-.19.25a16.84,16.84,0,0,1,1.86,4.64,6.46,6.46,0,0,0,1.86,3.54,38.27,38.27,0,0,0,18.26,11.39A120.12,120.12,0,0,0,90.95,295.28Z"
+    transform="translate(-31.48 -18.4)" />
+  <path fill="#0a60ac"
+    d="M64.11,307.1a48.37,48.37,0,0,0,6.45,3.16,82.91,82.91,0,0,0,26.86,5.62,208,208,0,0,0,44-2.48A263,263,0,0,0,183.21,303a61.72,61.72,0,0,0,12.16-5.59,2.5,2.5,0,0,0,1.44-2.28L63.14,306C63.14,306.83,63.74,306.88,64.11,307.1Z"
+    transform="translate(-31.48 -18.4)" />
+</g>
+  <!-- logo text -->
+<g>
+  <path id="logo-path" fill="none" d="M -80 0 A 80 80 180 0 1 80 0" />
+  <text dy="0.35em" font-size="25" font-family="Sancreek2,cursive" text-anchor="middle" fill='#0a60ac'
+    transform="translate(0 100)">
+    <textPath href="#logo-path" startOffset="50%">WPU</textPath>
+  </text>
+</g>
+
+
+<!-- dots -->
+<g fill='#0a60ac'>
+<!-- longer bar at top -->
+<rect x="-5" y="-150" width="10" height="15" />
+<!-- bars at each hour -->
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(30)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(60)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(90)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(120)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(150)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(180)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(210)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(240)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(270)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(300)" />
+<rect x="-5" y="-150" width="10" height="10" transform="rotate(330)" />
+</g>
+<!-- pins at each minutes -->
+<circle cx="0" cy="-142" r="2" transform="rotate(6)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(12)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(18)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(24)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(36)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(42)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(48)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(54)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(66)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(72)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(78)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(84)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(96)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(102)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(108)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(114)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(126)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(132)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(138)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(144)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(156)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(162)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(168)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(174)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(186)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(192)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(198)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(204)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(216)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(222)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(228)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(234)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(246)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(252)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(258)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(264)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(276)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(282)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(288)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(294)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(306)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(312)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(318)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(324)" />
+
+<circle cx="0" cy="-142" r="2" transform="rotate(336)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(342)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(348)" />
+<circle cx="0" cy="-142" r="2" transform="rotate(354)" />
+
+<!-- numbers -->
+<g id="numbers" font-size="30" font-family="Sancreek2,cursive" 
+
+text-anchor="middle"  fill="#0a60ac">
+  <text dy="0.35em" transform="translate(0 -120)" >12</text>
+  <text dy="0.35em" transform="rotate(30),translate(0,-120),rotate(-30)" >1</text>
+  <text dy="0.35em" transform="rotate(60),translate(0,-120),rotate(-60)">2</text>
+  <text dy="0.35em" transform="rotate(90),translate(0,-120),rotate(-90)">3</text>
+  <text dy="0.35em" transform="rotate(120),translate(0,-120),rotate(-120)">4</text>
+  <text dy="0.35em" transform="rotate(150),translate(0,-120),rotate(-150)">5</text>
+  <text dy="0.35em" transform="rotate(180),translate(0,-120),rotate(-180)">6</text>
+  <text dy="0.35em" transform="rotate(210),translate(0,-120),rotate(-210)">7</text>
+  <text dy="0.35em" transform="rotate(240),translate(0,-120),rotate(-240)">8</text>
+  <text dy="0.35em" transform="rotate(270),translate(0,-120),rotate(-270)">9</text>
+  <text dy="0.35em" transform="rotate(300),translate(0,-120),rotate(-300)">10</text>
+  <text dy="0.35em" transform="rotate(330),translate(0,-120),rotate(-330)">11</text>
+</g>
+
+
+<!-- digital panel -->
+<filter id="inset-shadow">
+  <!-- inset shadow by http://jsfiddle.net/kkPM4/
+       Drawing shapes should have dummy fill with some "fill-opacity" between 0.1 and 0.2
+  -->
+  <feComponentTransfer in="SourceAlpha" result="inside">
+    <!-- inset alpha is 1: drawing with inside -->
+    <feFuncA type="discrete" tableValues="0 1 1 1 1 1 1 1 1 1"/>
+  </feComponentTransfer>
+  <feComponentTransfer in="SourceGraphic" result="drawing">
+    <!-- inset alpha is 0: drawing only -->
+    <feFuncA type="discrete" tableValues="0 0 1 1 1 1 1 1 1 1"/>
+  </feComponentTransfer>
+
+  <!-- black colored drawing -->
+  <feColorMatrix type="matrix" in="drawing" result="black-drawing" values="0 0 0 0 0, 0 0 0 0 0, 0 0 0 0 0, 0 0 0 1 0" />
+
+  <!--shadow around target -->
+  <feGaussianBlur in="black-drawing" result="shadow1" stdDeviation="2" />
+  <feGaussianBlur in="black-drawing" result="shadow2" stdDeviation="4" />
+  <feGaussianBlur in="black-drawing" result="shadow3" stdDeviation="8" />
+  <feMerge result="shadow">
+    <feMergeNode in="shadow1" mode="normal"/>
+    <feMergeNode in="shadow2" mode="normal"/>
+    <feMergeNode in="shadow3" mode="normal"/>
+  </feMerge>
+
+  <!-- drop outside shadow -->
+  <feComposite operator="in" in="inside" in2="shadow" result="inset-shadow"/>
+
+  <!-- put target over inset-shadow -->
+  <feComposite operator="over" in="drawing" in2="inset-shadow"/>
+</filter>
+<g id="digital" transform="translate(0,60),scale(0.8)">
+  <!-- <rect x="-60" y="-25" width="120" height="50" rx="5" ry="5" fill="#778899" /> -->
+  <rect x="-60" y="-25" width="120" height="50" rx="5" ry="5" fill="white" />
+  <!-- <g fill="#332211" font-size="20" font-family="'Noto Sans Mono7','monospace" text-anchor="middle"> -->
+      <g fill="#0a60ac" font-size="20" font-family="'Noto Sans Mono7','monospace" text-anchor="middle">
+          <text dy="0.35em" id="date-text" x="0" y="-10">&#8199;8/&#x2007;5 Fri&#8199;</text>
+    <text dy="0.35em" id="time-text" x="0" y="10">00:00:00</text>
+  </g>
+  <rect x="-60" y="-25" width="120" height="50" rx="5" ry="5" stroke="#250d00" stroke-width="1.5" fill-opacity="0.125" filter="url(#inset-shadow)"/>
+  <rect x="-62" y="-27" width="124" height="54" rx="5" ry="5" stroke="#0a60ac" stroke-width="4" fill="transparent" />
+  <rect x="-60" y="-25" width="120" height="50" rx="5" ry="5" stroke="#fecb30" stroke-width="2" fill="transparent" />
+</g>
+
+<!-- hands with shadow -->
+<filter id="hshadow">
+  <feDropShadow dx="1" dy="1" stdDeviation="1" />
+</filter>
+<g fill="#fecb30" filter="drop-shadow(0px 1px 5px )">
+  <rect id="hour" x="-5" y="-100" width="10" height="105" rx="5" ry="5" />
+</g>
+
+<filter id="mshadow">
+  <feDropShadow dx="2" dy="2" stdDeviation="2" />
+</filter>
+<g fill="#fecb30"  filter="drop-shadow(0px 0px 5px )">  
+  <rect id="minute" x="-2" y="-130" width="4" height="132" rx="2" ry="2" />
+</g>
+
+<filter id="sshadow">
+  <feDropShadow dx="3" dy="3" stdDeviation="3" />
+</filter>
+<!-- <g filter="url(#sshadow)" fill="#6c272d"> -->
+  <g filter="url(#sshadow)" fill="red">
+      <rect id="second" x="-1" y="-140" width="2" height="160" rx="1" ry="1" />
+  <circle r="3" />
+</g>
+
+  <!-- JavaScript code in CDATA section -->
+  <!-- <script src="./script.js"  type="module"></script> -->
+  <script href="./script.js" />
+</svg>

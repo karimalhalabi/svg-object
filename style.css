@@ -1,0 +1,14 @@
+@import "./fonts/localFonts.css";   
+  svg{
+    font-family: 'Sancreek2';
+    /* filter:drop-shadow(5px 5px 5px) */
+  }
+
+.clockcontents{
+    position: absolute;
+    font-family: 'Sancreek2';
+    font-size: 4rem;
+    inset:0px;
+    display:grid;
+    place-content: center;
+}
