@@ -40,7 +40,7 @@ sHand.transform.baseVal.appendItem(sRotate);
 const setTime = (date) => {
   const sSec = date.getSeconds();
   const mSec = date.getMinutes() * 60 + sSec;
-  const hSec = ((date.getHours() - 1) % 12) * 60 * 60 + mSec;
+  const hSec = (date.getHours()  % 12) * 60 * 60 + mSec;
 
   const sAngle = sSec * (360 / 60);
   const mAngle = mSec * (360 / (60 * 60));
