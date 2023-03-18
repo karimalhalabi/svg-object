@@ -1,14 +1,37 @@
-@import "./fonts/localFonts.css";   
-  svg{
-    font-family: 'Sancreek2';
-    /* filter:drop-shadow(5px 5px 5px) */
-  }
+@import "./fonts/localFonts.css";
 
-.clockcontents{
-    position: absolute;
-    font-family: 'Sancreek2';
-    font-size: 4rem;
-    inset:0px;
-    display:grid;
-    place-content: center;
+.clockcontainer {
+  display: grid;
+  height: 98vh;
+  width: 99vw;
+  place-content: center;
+  place-items: center;
+  overflow: hidden;
+}
+
+.clockcontents {
+  display: flex;
+  width: 350px;
+  place-content: center;
+  place-items: center;
+}
+
+svg {
+  font-family: "Sancreek2";
+  font-size: 4em;
+  width: 100%;
+}
+
+@viewport {
+  width: device-width;
+  zoom: 1.1;
+  min-zoom: 0.4;
+  max-zoom: 2;
+  user-zoom: fixed;
+}
+
+@media screen and (min-width: 600px) {
+  .clockcontents {
+    width: 600px;
+  }
 }
